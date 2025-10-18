@@ -24,6 +24,8 @@ public class MajorityElement {
 		
 		int mje=-1;
 		
+		// edited by Tarrak
+		
 		for(Entry<Integer, Integer> m : map.entrySet())
 		{
 			if(m.getValue() > nums.length/2)
