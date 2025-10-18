@@ -22,6 +22,8 @@ public class MajorityElement {
 			}
 		}
 		
+		// edited by Sandeep
+		
 		int mje=-1;
 		
 		for(Entry<Integer, Integer> m : map.entrySet())
