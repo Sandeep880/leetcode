@@ -22,7 +22,7 @@ public class MajorityElement {
 			}
 		}
 		
-		// edited by Sandeep
+		// edited by Tarrak in feature1 branch
 		
 		int mje=-1;
 		
