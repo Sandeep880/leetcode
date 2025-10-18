@@ -22,6 +22,8 @@ public class MajorityElement {
 			}
 		}
 		
+		// edited by Tarrak in feature1 branch
+		
 		int mje=-1;
 		
 		// edited by Tarrak in feature2 branch
