@@ -24,7 +24,7 @@ public class MajorityElement {
 		
 		int mje=-1;
 		
-		// edited by Tarrak
+		// edited by Tarrak in feature2 branch
 		
 		for(Entry<Integer, Integer> m : map.entrySet())
 		{
